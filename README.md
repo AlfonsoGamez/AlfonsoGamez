@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/79656705/229391016-9dd5964d-39db-433a-951a-da96c481c35a.png)
 
-### Hi there, I'm Alfonso 👋 \n
+### Hi there, I'm Alfonso 👋
 
 
 ![LINUX](https://user-images.githubusercontent.com/79656705/229390399-e018fc64-4cb1-43a0-9b0d-617cc1dad465.svg)
