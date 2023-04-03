@@ -1,5 +1,4 @@
-### Hi there, I'm Alfonso 👋
-
+### Hi there, I'm Alfonso 👋 ![image](https://user-images.githubusercontent.com/79656705/229391016-9dd5964d-39db-433a-951a-da96c481c35a.png)
 
 
 
