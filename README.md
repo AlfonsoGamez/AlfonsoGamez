@@ -1,23 +1,8 @@
-![image](https://user-images.githubusercontent.com/79656705/229391016-9dd5964d-39db-433a-951a-da96c481c35a.png)
-
 ### Hi there, I'm Alfonso 👋
 
+> SysAdmin ·
+> Linux ·
+> OCI
 
-![LINUX](https://user-images.githubusercontent.com/79656705/229390399-e018fc64-4cb1-43a0-9b0d-617cc1dad465.svg)
+![banner4](https://github.com/AlfonsoGamez/AlfonsoGamez/assets/79656705/9dc668ee-b352-4e21-8e1b-bf57a9cf5c38)
 
-
-
-<!--
-**AlfonsoGamez/AlfonsoGamez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
