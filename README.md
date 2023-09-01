@@ -4,5 +4,6 @@
 > Linux ·
 > OCI
 
-![banner4](https://github.com/AlfonsoGamez/AlfonsoGamez/assets/79656705/9dc668ee-b352-4e21-8e1b-bf57a9cf5c38)
 
+
+![banner](https://github.com/AlfonsoGamez/AlfonsoGamez/assets/79656705/b0e6d3e3-4c91-41e5-b86c-7fadbf87294d)
